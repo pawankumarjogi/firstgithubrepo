@@ -1,2 +1,3 @@
 ls
 the file is created for newbrnch
+new branch code conflict resolveing
